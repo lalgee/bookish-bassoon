@@ -1,10 +1,2 @@
 bs4
 requests
-os
-time
-datetime
-json
-tkinter
-requests
-csv
-timeit
