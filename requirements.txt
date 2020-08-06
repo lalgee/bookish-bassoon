@@ -1,2 +1,11 @@
 bs4
 requests
+sys
+os
+time
+datetime
+json
+tkinter
+requests
+csv
+timeit
